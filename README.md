@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="" width="800" />
+</p>
+###
+
 <h1 align="left">Hi, I'm Nashra Chauhan 🐻‍❄️</h1>
 
 ###
