@@ -51,6 +51,9 @@
 </div>
 
 ###
+![Pacman contribution graph](https://raw.githubusercontent.com/nashra101/nashra101/output/pacman-contribution-graph.gif)
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nashra101/nashra101/output/pacman-contribution-graph-dark.svg">
