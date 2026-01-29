@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="" width="800" />
+  <img src="https://github.com/nashra101/nashra101/blob/main/%F0%9D%93%AA%F0%9D%93%B7%F0%9D%93%B2%F0%9D%93%B6%F0%9D%93%AE.gif" width="800" />
 </p>
-###
 
 <h1 align="left">Hi, I'm Nashra Chauhan 🐻‍❄️</h1>
 
