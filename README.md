@@ -1,81 +1,46 @@
-<!-- Header GIF -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nashra101/nashra101/main/%F0%9D%93%AA%F0%9D%93%B7%F0%9D%93%B2%F0%9D%93%B6%F0%9D%93%AE.gif" width="100%" />
-</p>
+<h1 align="left">Hi, I'm Nashra Chauhan 🐻‍❄️</h1>
 
-<h1 align="center">Hi, I'm Nashra 👋</h1>
+###
 
-<p align="center">
-  Computer Science Undergraduate • Book Lover • Coffee Enthusiast  
-</p>
+<p align="left">CS Undergrad | Aspiring Software Developer 💻✨</p>
 
-<p align="center">
-  <a href="https://github.com/nashra101">
-    <img src="https://img.shields.io/github/followers/nashra101?label=Followers&style=flat" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=nashra101&label=Profile%20Views&color=grey&style=flat" />
-</p>
+###
 
----
+<h2 align="left">👾 about_me.exe</h2>
 
-## ✨ About Me
+###
 
-- 🎓 Computer Science Undergraduate  
-- 📚 Passionate about books, manhwa & storytelling  
-- ☕ Coffee keeps my code running  
-- 💻 Interested in **Web Development, UI/UX, and Problem Solving**  
-- 🌱 Currently learning and building consistently  
+<p align="left">🎓 Undergraduate Computer Science Student<br>💻I enjoy solving complex problems and exploring structured, long-term goals.<br>🗣️I'm passionate about public speaking<br>📖 Currently learning DSA, Java, DBMS, Python & HTML<br>🪪 Curious about Cyber Security<br>🏢 I would like to work with big tech comapnies like Google, Microsoft, Samsung in future<br>🚀 Currently improving my communication and technical slkills.</p>
 
----
+###
 
-## 🛠 Tech Stack
+<h2 align="left">tech stack (tools I'm currently surviving with)</h2>
 
-**Languages**
-- C / C++
-- Java
-- Python
-- JavaScript
+###
 
-**Web & Tools**
-- HTML5
-- CSS3
-- Git & GitHub
-- Firebase (Basics)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+</div>
 
-**Design**
-- Canva
-- Figma (Basics)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nashra101&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashra101&layout=compact&theme=default&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nashra101&hide_border=true&theme=default" />
-</p>
-
----
-
-## 🧠 Currently Exploring
-
-- Data Structures & Algorithms  
-- Frontend development  
-- Better design systems  
-- Writing cleaner, readable code  
-
----
-
-## 📫 Connect With Me
-
-- 💼 GitHub: [@nashra101](https://github.com/nashra101)
-
----
-
-<p align="center">
-  <i>“Consistency matters more than motivation.”</i>
-</p>
+###
+A white circle with a dark file icon outlined in the center
+Profile Readme Generator
+Developed and maintained by Mauro de Souza
+Github
+Donate
+Share
+Privacy Policy
